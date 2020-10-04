@@ -1,6 +1,6 @@
 """
 
-This program converts a sequnce of ASCII values to its correcponding character
+This program converts a sequnce of ASCII values to its corresponding character
 
 """
 msg=str(input())
