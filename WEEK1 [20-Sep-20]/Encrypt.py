@@ -1,6 +1,6 @@
 """
 
-This program converts a given sentence into a sequnce of digits which represent its ASCII value
+This program converts a given sentence into a sequence of digits which represent its ASCII value
 
 """
 value=list(map(str,input().split()))
