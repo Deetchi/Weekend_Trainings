@@ -49,5 +49,5 @@ for i in range(int(row)):
     for j in range(int(col)):
         if matrix[i][j] == find_val[-1]:
             print(i,j)
-            #print('Value '+ str(find_val) + ' is present in row:' + str(i) + ' column:' + str(j))
+            #print('Value '+ str(find_val) + ' is present in row:' + str(i+1) + ' column:' + str(j))
             break
