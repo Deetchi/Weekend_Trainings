@@ -7,6 +7,7 @@
 ###### Links and Resources:
  <p style="font-family: Arial">
  
+ * <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students">Github: A-Z resources</a>
  * <a href="https://github.com/CodeChefVIT/resources">Guide for Beginners</a>
  * <a href="https://www.codechef.com/problems/school/">CodeChef: Beginner</a>
  * <a href="https://www.hackerrank.com/domains/python">HackerRank: Python</a>
