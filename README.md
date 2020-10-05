@@ -1,4 +1,4 @@
-#### Weekend Trainings
+##### Weekend Trainings
 
 <p style="font-family: Arial">This is an initiative taken to help my junior's improve their programming knowledge</p>
 
