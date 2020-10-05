@@ -1,13 +1,17 @@
-##### Weekend Trainings
+###### Weekend Trainings
 
 <p style="font-family: Arial">This is an initiative taken to help my junior's improve their programming knowledge</p>
 
 <br/>
 
 ###### Links:
+ <p style="font-family: Arial">
+  
  * <a href="https://www.codechef.com/problems/school/">CodeChef: Beginner</a>
  * <a href="https://www.hackerrank.com/domains/python">HackerRank: Python</a>
  * <a href="https://www.hackerearth.com/practice/python">HackerEarth: Python</a>
+  
+  </p>
   
   <br/><br/>
 
