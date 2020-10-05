@@ -5,7 +5,7 @@
 <br/>
 
 ###### Links:
- * <a href="https://www.codechef.com/problems/school/">CodeChef: Beginner Level </a>
+ * <a href="https://www.codechef.com/problems/school/">CodeChef: Beginner</a>
  * <a href="https://www.hackerrank.com/domains/python">HackerRank: Python</a>
  * <a href="https://www.hackerearth.com/practice/python">HackerEarth: Python</a>
   
